@@ -1,0 +1,25 @@
+.titulo{
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+.contenido{
+	font-size: 13px;
+}
+
+.centrar{
+	margin-left: auto;
+	display: block;
+}
+
+.margen{
+	margin-right: 20%;
+	margin-left: 10%;
+}
+
+.tamano{
+	padding: 5px 10px 5px 10px;
+}
+
